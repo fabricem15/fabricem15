@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabrice Mikobi
-- 📚 I'm a sophomore in a B. Computer Science degree at Carleton University
+- 📚 I'm a sophomore majoring in Computer Science at Carleton University
 - 👀 I’m interested in web development and software engineering
 - 🌱 I’m currently learning OOP in C++
 - 💞️ I’m looking for internship opportunities for summer 2022!
