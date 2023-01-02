@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Fabrice Mikobi
-- 📚 I'm a sophomore majoring in Computer Science at Carleton University
-- 👀 I’m interested in web development and software engineering
-- 🌱 I’m currently learning OOP in C++
-- 💞️ I’m looking for internship opportunities for summer 2022!
+- 📚 I'm a 3rd-year Computer Science student at Carleton University
+- 👀 I’m interested in Web Development and Software Engineering roles
+- 💞️ I’m looking for internship opportunities for summer 2023!
 - 📫 How to reach me: 
    - LinkedIn -> www.linkedin.com/in/fabrice-mikobi
    - Email: fabricemikobi@cmail.carleton.ca
