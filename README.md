@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Fabrice Mikobi
-- 📚 I'm a third-year Computer Science student at Carleton University with a focus on Software Engineering
+- 📚 I'm a 4th-year Computer Science student at Carleton University and an aspiring Software Engineering
+- I enjoy building websites and solving coding problems 
 - 📫 How to reach me: 
    - LinkedIn -> www.linkedin.com/in/fabrice-mikobi
    - Email: fabricemikobi@cmail.carleton.ca
