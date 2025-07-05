@@ -4,7 +4,7 @@ Welcome to the nest of my projects. Here you will find all of the cool stuff tha
 
 Contact Info: 
 - Email: fabricemikobi15@gmail.com
-- LinkedIn: linkedin.com/in/fabrice-mikobi
+- LinkedIn: https://linkedin.com/in/fabrice-mikobi
 
 Bonne continuation... 
 FM
