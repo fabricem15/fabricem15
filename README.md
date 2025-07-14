@@ -3,7 +3,7 @@
 Welcome to the nest of my projects. Here you will find all of the cool stuff that I have been working on. Feel free to explore them, dissect them, or break them if you must. I'd love to hear your feedback. 
 
 Contact Info: 
-- Email: fabricemikobi15@gmail.com
+- 📧 Email: fabricemikobi15@gmail.com
 - LinkedIn: https://linkedin.com/in/fabrice-mikobi
 
 Bonne continuation... 
